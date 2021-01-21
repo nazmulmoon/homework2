@@ -24,4 +24,11 @@ i{
 	font-size: 50px;
 	background-color: lawngreen;
 	width: 200px;
+
+}
+h3{
+	height: 300px;
+	width: 300px;
+	background-color: lightcoral;
+	text-align: center;
 }
