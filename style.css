@@ -1,0 +1,27 @@
+h1{
+	color: brown;
+	font-size: 35px;
+	background-color: gray;
+	text-align: center;
+}
+h2{
+	color: yellow;
+	font-size: 25px;
+	background: black;
+	text-align: center;
+}
+img {
+    height: 295px;
+	width: 400px;
+	
+}
+p{
+	background-color: gray;
+	font-size: 14px
+}
+i{
+	color: indigo;
+	font-size: 50px;
+	background-color: lawngreen;
+	width: 200px;
+}
